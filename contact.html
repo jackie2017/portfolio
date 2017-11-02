@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>Portfolio</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/cyborg/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="style2.css">
+    </head>
+
+  <body>   
+
+      <nav class="navbar">
+        <div class="jumbotron bg-primary text-center">
+          <div class="container">
+            <h1 class="display-3">Jacqueline Young</h1>
+            <ul class="nav nav-pills navbar-right" role="tablist"">
+              <li class="active"> <a href="index.html">Home</a></li>
+              <li><a href="portfolio.html">Portfolio</a></li>
+              <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <div class="container-fluid">
+        <div class="row">
+          <div id="contact" class="col-md-6">
+            <h2>Contact Me</h2>
+            <form name="htmlform" method="post" action="html_form_send.php">
+            <table width="450px">
+            </tr>
+            <tr>
+              <td valign="top">
+                <label for="name">Name</label>
+              </td>
+            </tr>
+              <td id="text" valign="top">
+                <input  type="text" name="first_name" maxlength="50" size="30">
+              </td>
+            </tr>
+            <tr>
+              <td valign="top">
+                <label for="email">Email</label>
+              </td>
+            </tr>
+              <td id="text" valign="top">
+                <input  type="text" name="email" maxlength="80" size="30">
+              </td>
+            <tr>
+              <td valign="top">
+                <label for="comments">Message</label>
+              </td>
+            </tr>
+              <td id="text" valign="top">
+                <textarea  name="comments" maxlength="1000" cols="50" rows="15"></textarea>
+              </td>
+            </tr>
+            <tr>
+              <td id="button" class="submit">
+                <input value="Submit" type="submit" onclick=""><a href="#"></a> 
+              </td>
+            </tr>
+            </table>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <div class="container-fluid">
+        <div class="row">
+          <div class="modal-footer">
+            <div class="align-content-md-center">
+              <p>
+                <a>
+                <span>Copyright 2017 Jacqueline Young</span>
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+  </body>
+
+</html>

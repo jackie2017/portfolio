@@ -1,0 +1,117 @@
+.jumbotron
+{
+	height: 200px;
+    background-image: url(images/cardboard_flat_@2X.png);
+    text-shadow: 3px 3px 3px #4aaaa5;
+}
+
+.col-md-6
+{
+	width: 570px;
+	margin: 3% 3% 4% 28%;
+	padding: 5px 35px 5px 35px;
+
+}
+
+.col-md-6:hover
+{
+    box-shadow: 0px 0px 10px 6px #4aaaa5 ;
+    background-image: url(images/cardboard_flat_@2X.png);
+	border-radius: 15px;
+    border: 2px solid #4d4dff;
+	color: black;
+	width: 570px;
+	margin: 3% 3% 4% 28%;
+	padding: 5px 35px 5px 41px;
+	float: left;
+	overflow: auto;
+	text-align: left;
+}
+
+#inside
+{
+	width: 80%;
+	text-align: center;
+	margin: 3% 5% 3% 9%;
+	padding: 5px 5px 5px 5px;
+}
+
+#contact
+{
+	box-shadow: 0px 0px 10px 6px #4aaaa5 ;
+    background-image: url(images/cardboard_flat_@2X.png);
+	border-radius: 15px;
+    border: 2px solid #4d4dff;
+	color: black;
+	width: 570px;
+	margin: 3% 3% 4% 28%;
+	padding: 5px 35px 5px 35px;
+	float: left;
+	overflow: auto;
+	text-align: left;
+}
+
+#portfolio
+{
+	box-shadow: 0px 0px 10px 6px #4aaaa5 ;
+    background-image: url(images/cardboard_flat_@2X.png);
+	border-radius: 15px;
+    border: 2px solid #4d4dff;
+	color: black;
+	width: 570px;
+	margin: 3% 3% 4% 28%;
+	padding: 5px 35px 5px 35px;
+	float: left;
+	overflow: auto;
+	text-align: left;
+}
+
+.img-rounded
+{
+	padding: 5px 5px 5px 5px;
+	max-width: 480px;
+}
+
+#link
+{
+	padding: 5px;
+}
+
+#link
+{
+	padding: 5px;
+}
+
+#link1
+{
+	padding: 5px -1px 5px 5px;
+}
+
+#centerbig
+{
+	text-align: center;
+	font-size: 22px;
+	color: black;
+}
+
+body
+{
+    background-image: url(images/Blue2.jpg);
+}
+
+h3
+{
+	color: black;
+}
+
+p
+{
+	color: black;
+	font-size: 18px;
+}
+
+.modal-footer
+{
+	text-align: center;
+    background-image: url(images/cardboard_flat_@2X.png);
+}

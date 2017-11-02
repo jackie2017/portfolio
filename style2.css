@@ -1,0 +1,164 @@
+.jumbotron
+{
+	height: 200px;
+    background-image: url(images/cardboard_flat_@2X.png);
+    text-shadow: 3px 3px 3px #4aaaa5;
+}
+
+#contact
+{
+	box-shadow: 0px 0px 10px 6px #4aaaa5;
+	background-color: black;
+	border-radius: 15px;
+    border: 2px solid #4d4dff;
+	width: 570px;
+	margin: 3% 3% 4% 28%;
+	padding: 5px 35px 25px 35px;
+}
+
+#portfolio
+{
+	box-shadow: 0px 0px 10px 6px #4aaaa5;
+	background-color: black;
+	border-radius: 15px;
+    border: 2px solid #4d4dff;
+	width: 800px;
+	margin: 3% 3% 4% 21%;
+	padding: 5px 50px 25px 50px;
+}
+
+#inside
+{
+	box-shadow: 0px 0px 10px 6px #4aaaa5;
+	background-color: black;
+	border-radius: 15px;
+    border: 2px solid #4d4dff;
+	width: 80%;
+	text-align: center;
+	margin: 3% 5% 3% 9%;
+	padding: 5px 5px 5px 5px;
+}
+
+#link
+{
+	padding: 5px;
+}
+
+#link
+{
+	padding: 5px;
+}
+
+#link1
+{
+	padding: 5px -1px 5px 5px;
+}
+
+#button
+{
+	color:black;
+}
+
+#text
+{
+	color: black;
+}
+
+.one
+{
+  	width:200px;
+  	height:200px;
+  	background:blue;
+  	position:relative;
+  	margin:10px;
+  	float:left;
+  	background-image:url("https://www.confluenceedu.com/wp-content/uploads/2015/01/PGD-in-Education.jpg");
+  	background-size:cover;
+}
+
+.two
+{
+  	width:200px;
+  	height:200px;
+  	background:blue;
+  	position:relative;
+  	margin:10px;
+  	float:left;
+  	background-image:url("https://upload.wikimedia.org/wikipedia/commons/9/9f/Reduction_Gear.jpg");
+  	background-size:cover;
+}
+/*
+.three
+{
+  	width:200px;
+  	height:200px;
+  	background:blue;
+  	position:relative;
+  	margin:10px;
+  	float:left;
+  	background-image:url("http://wpmedia.o.canada.com/2013/11/dsc6261-zf-0498-58860-1-001.jpg");
+  	background-size:cover;
+}
+
+.four
+{
+  	width:200px;
+  	height:200px;
+  	background:blue;
+  	position:relative;
+  	margin:10px;
+  	float:left;
+  	background-image:url("https://rimdevblog.files.wordpress.com/2015/04/push-button.png");
+  	background-size:cover;
+}
+
+.five
+{
+  	width:200px;
+  	height:200px;
+  	background:blue;
+  	position:relative;
+  	margin:10px;
+  	float:left;
+  	background-image:url("http://www.themeshack.net/pspframes/images/Nature-Floral/001-012/Nature-Floral004.png");
+  	background-size:cover;
+}
+
+.six
+{
+  	width:200px;
+  	height:200px;
+  	background:blue;
+  	position:relative;
+  	margin:10px;
+  	float:left;
+  	background-image:url("http://codingbasics.net/wp-content/uploads/2014/04/computer-programming.jpeg");
+  	background-size:cover;
+}
+*/
+#banner
+{
+  	position:absolute;
+  	bottom:0;
+  	font-size:16px;
+  	padding:50px;
+  	background:rgba(0, 0, 0, 0.5);
+  	width:100%;
+  	color:#fff;
+}
+
+body
+{
+    background-image: url(images/Blue2.jpg);
+}
+
+h3
+{
+	color: white;
+}
+
+.modal-footer
+{
+	text-align: center;
+    background-image: url(images/cardboard_flat_@2X.png);
+}
